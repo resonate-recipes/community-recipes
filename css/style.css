@@ -1,0 +1,58 @@
+
+body {
+  font-family: Oswald;
+  background: url('../images/tableKnifeGreenLukas.jpg') center center no-repeat;
+	background-size: cover;
+  /* background-color: rgba(76,162,153,1) */
+}
+
+nav {
+  background-color: rgba(132,65,54,1);
+  font-size: 15px;
+  border-bottom: 1px solid black;
+  border-radius: 3px;
+}
+
+section {
+  font-family: Oswald;
+  margin-top: 80px;
+}
+
+form {
+  /* padding: 20px; */
+}
+
+h1, h3 {
+  /* color: white; */
+}
+.container {
+  /* justify-content: center; */
+}
+
+.box {
+  /* background-color: rgba(170,170,170,1);
+  height: 100vh; */
+}
+.col-12 {
+  background-color: rgba(196,162,46,.8);
+  margin-top: 80px;
+  border-radius: 3px;
+  justify-content: center;
+  text-align: center;
+}
+
+.a {
+  height: inherit;
+}
+
+.b {
+  height: inherit;
+}
+
+.c {
+  height: inherit;
+}
+
+.btn-succes {
+  background-color: rgba(4,103,79,1)
+}
